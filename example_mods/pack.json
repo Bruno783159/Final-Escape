@@ -1,6 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "Playable Final Escape",
+	"description": "A playable version of siivkoi's concept for the sonic.exe mod",
 	"restart":false,
 	"color": [170, 0, 255]
 }
